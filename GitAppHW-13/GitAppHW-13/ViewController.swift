@@ -22,6 +22,9 @@ class ViewController: UIViewController {
     // закончил
     // task 5
     // task 4
+    
+    // task 6
+    //  сейчас я закончила
 
 }
 
