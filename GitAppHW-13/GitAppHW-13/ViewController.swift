@@ -16,5 +16,6 @@ class ViewController: UIViewController {
     }
 
 // я тоть и третий но круче
+    // закончил
 }
 
